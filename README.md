@@ -47,10 +47,10 @@ gcc consumer.c -pthread -lrt -o consumer
 
 The command above generates executable files producer and consumer
 Run the files as follow
-#### *./producer
-#### *./consumer
+#### * ./producer
+#### * ./consumer
 
-####or ./producer & ./consumer & to run the both concurently
+#### or ./producer & ./consumer & to run the both concurently
     
 
 ## Authors
